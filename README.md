@@ -4,4 +4,5 @@ Time series forecasting is critical in various applications, with deep learning-
 
 ## how to run the method
 FIrst, run predict.py to train point prediction model.
-Seconr run main.py to obtian predicted confidence intervals
+
+Second run main.py to obtian predicted confidence intervals.
