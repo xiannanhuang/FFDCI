@@ -1,2 +1,2 @@
-The dataset can be downloaded in 
-https://pan.baidu.com/s/1WKJ9pDAWLtl5PNgiNdBGjw?pwd=fbux
+The dataset can be downloaded in the official repository of iTransformer
+https://github.com/thuml/iTransformer
